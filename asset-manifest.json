@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tinder/static/css/main.075724a0.chunk.css",
+    "main.js": "/Tinder/static/js/main.44783e4e.chunk.js",
+    "main.js.map": "/Tinder/static/js/main.44783e4e.chunk.js.map",
+    "runtime~main.js": "/Tinder/static/js/runtime~main.2032a708.js",
+    "runtime~main.js.map": "/Tinder/static/js/runtime~main.2032a708.js.map",
+    "static/js/2.259a7a67.chunk.js": "/Tinder/static/js/2.259a7a67.chunk.js",
+    "static/js/2.259a7a67.chunk.js.map": "/Tinder/static/js/2.259a7a67.chunk.js.map",
+    "index.html": "/Tinder/index.html",
+    "precache-manifest.9928c05c49872ae01d322de692d97957.js": "/Tinder/precache-manifest.9928c05c49872ae01d322de692d97957.js",
+    "service-worker.js": "/Tinder/service-worker.js",
+    "static/css/main.075724a0.chunk.css.map": "/Tinder/static/css/main.075724a0.chunk.css.map"
+  }
+}
